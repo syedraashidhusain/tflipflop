@@ -36,7 +36,9 @@ Procedure
 
 PROGRAM
 ```
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: SYED RAASHID HUSAIN M
+/* Program for flipflops and verify its truth table in quartus using Verilog programming.
+
+ Developed by: SYED RAASHID HUSAIN M
 
 RegisterNumber:25009038
 
